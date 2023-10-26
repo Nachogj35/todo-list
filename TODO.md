@@ -4,7 +4,7 @@
 
 ## Making a good readme
 
-- [ ] Project Tittle
+- [ X ] Project Tittle
 - [ ] Description
 - [ ] getting started 
 - [ ] Prerequisistes
