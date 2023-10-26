@@ -6,13 +6,13 @@
 
 - [X] Project Tittle
 - [X] Description
-- [ ] getting started 
-- [ ] Prerequisistes
-- [ ] Installing
-- [ ] getting started 
-- [ ] Deployment
-- [ ] Authors 
-- [ ] License
+- [X] getting started 
+- [X] Prerequisistes
+- [X] Installing
+- [X] getting started 
+- [X] Deployment
+- [X] Authors 
+- [X] License
 
 
 
